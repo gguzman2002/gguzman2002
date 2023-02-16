@@ -1,5 +1,5 @@
 ### Hello!
 
-I'm Gabriel, nice to meet you. 
+Thanks for visiting, 
 
 📫 Feel free to get in touch: mdygbrl@gmail.com :smiley: 
