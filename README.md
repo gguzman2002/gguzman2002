@@ -1,5 +1,5 @@
-### Hello there!
+### Hey there!
 
-Thanks for visiting. I really enjoy C# and .NET, as well as nice, semantic HTML and CSS.
+Thanks for visiting, I'm Gabriel. I'm a Web Developer who has currently discovered the awesomeness of C# and the .NET environment and I'm working on leveling up! Besides, I really appreciate clean, semantic HTML with minimal CSS. Take a look at my projects and skills below to see if I can be of service 😎.
 
-📫 Feel free to get in touch: mdygbrl@gmail.com :smiley: 
+📫 Feel free to get in touch: mdygbrl@gmail.com :smiley:.
