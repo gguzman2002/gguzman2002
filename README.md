@@ -1,8 +1,8 @@
 ### Hey there!
 
-Thanks for visiting, I'm Gabriel. I'm a Web Developer who has currently discovered the awesomeness of C# and the .NET environment and I'm working on leveling up! Besides, I really appreciate clean, semantic HTML with minimal CSS. Take a look at my projects and skills below to see if I can be of service 😎.
+Thanks for visiting, I'm Gabriel. I'm a Web Developer who has currently discovered the awesomeness of C# and the .NET environment and I'm working on leveling up! Besides, I really appreciate clean, semantic HTML with minimal CSS.
 
-Here are some of my current projects, I progressively update them as I explore new .NET features. (Oh, and please excuse the 🧊 cold 🧊 start... They're free! 😃).
+Take a look at some of my current projects below to see if I can be of service 😎, I progressively update them as I explore new .NET features.
 
 https://sawyersemployeemanager.azurewebsites.net/
 
